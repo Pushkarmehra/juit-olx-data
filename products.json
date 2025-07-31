@@ -42,5 +42,16 @@
     "id": 1753993963464,
     "dateAdded": "2025-07-31T20:32:43.464Z",
     "imagePath": "images/product_1753993963464.jpg"
+  },
+  {
+    "id": 1753995406787,
+    "name": "Test 4",
+    "price": 19,
+    "seller": "pushkar",
+    "whatsapp": "918091262475",
+    "condition": "Brand New",
+    "description": "hi",
+    "dateAdded": "2025-07-31T20:56:46.787Z",
+    "imagePath": "images/product_1753995406787.jpg"
   }
 ]
