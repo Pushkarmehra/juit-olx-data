@@ -20,5 +20,16 @@
     "id": 1753993776201,
     "dateAdded": "2025-07-31T20:29:36.201Z",
     "imagePath": "images/product_1753993776201.jpg"
+  },
+  {
+    "name": "test 8",
+    "price": 19,
+    "seller": "pushkat",
+    "whatsapp": "91 8091262475",
+    "condition": "Good",
+    "description": "ji",
+    "id": 1753993841702,
+    "dateAdded": "2025-07-31T20:30:41.702Z",
+    "imagePath": "images/product_1753993841702.jpg"
   }
 ]
