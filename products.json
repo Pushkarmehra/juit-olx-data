@@ -31,5 +31,16 @@
     "id": 1753993841702,
     "dateAdded": "2025-07-31T20:30:41.702Z",
     "imagePath": "images/product_1753993841702.jpg"
+  },
+  {
+    "name": "ji",
+    "price": 19,
+    "seller": "test 6",
+    "whatsapp": "91 8091262475",
+    "condition": "Excellent",
+    "description": "ko",
+    "id": 1753993963464,
+    "dateAdded": "2025-07-31T20:32:43.464Z",
+    "imagePath": "images/product_1753993963464.jpg"
   }
 ]
