@@ -9,5 +9,16 @@
     "id": 1753990313412,
     "dateAdded": "2025-07-31T19:31:53.412Z",
     "imagePath": "images/product_1753990313412.jpg"
+  },
+  {
+    "name": "photo ",
+    "price": 19,
+    "seller": "rahul",
+    "whatsapp": "8091262475",
+    "condition": "Good",
+    "description": "hi ",
+    "id": 1753993776201,
+    "dateAdded": "2025-07-31T20:29:36.201Z",
+    "imagePath": "images/product_1753993776201.jpg"
   }
 ]
