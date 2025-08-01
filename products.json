@@ -53,5 +53,16 @@
     "description": "hi",
     "dateAdded": "2025-07-31T20:56:46.787Z",
     "imagePath": "images/product_1753995406787.jpg"
+  },
+  {
+    "id": 1754041517096,
+    "name": "pushkar",
+    "price": 19,
+    "seller": "shouray",
+    "whatsapp": "919805612626",
+    "condition": "Fair",
+    "description": "tatai",
+    "dateAdded": "2025-08-01T09:45:17.096Z",
+    "imagePath": "images/product_1754041517096.jpg"
   }
 ]
